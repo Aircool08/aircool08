@@ -18,7 +18,6 @@
 </div> 
 <br>
 <div align="center">
-  <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
   <details>
     <summary>See more</summary>
     <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
