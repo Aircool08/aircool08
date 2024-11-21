@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>👋 Hi, I'm Priyansh Prajapat</h1>
-  <b>I'm a passionate developer from India.</b>
+  <h1 align="center">Hi <img src="images/wave.gif" width="30px" height="30px">, I'm Aircool 08</h1>
+  <b>I'm a Developer/Game Designer/Gangsta Hacker from Germany</b>
 </div>
 
 <div align="center">
    
-  ✨ Learn more about me on [oyepriyansh.github.io](https://oyepriyansh.github.io). <br>
-  💻 Find more of my projects: [github.com/oyepriyansh/repositories](https://github.com/oyepriyansh?tab=repositories). <br>
-  💌 You can reach me via email at [oyepriyansh@duck.com](mailto:oyepriyansh@duck.com).
+  ✨ Learn more about me on [aircool08.github.io](https://aircool08.github.io). <br>
+  💻 Find more of my projects: [github.com/aircool08/repositories](https://github.com/aircool08?tab=repositories). <br>
+  💌 You can contact me over Discord: [github.com/aircool08/repositories](https://github.com/aircool08?tab=repositories)
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
   <details>
     <summary>See more</summary>
     <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
-    <a href="#"><img src="assets/typing.svg"></a>
+    
     <details open>
       <summary>About me</summary>
       <div align="left">
@@ -31,10 +31,10 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} languages - Hindi, Gujrati, English.
- * @param {string} hobbies - Cricket, Music, Gaming.
- * @param {string} interests - DiscordJS, Open Source, Javascript, Java.
- * @param {Date} birthday - 28th of May.
+ * @param {string} languages - German, English, Spanish, Javascipt.
+ * @param {string} hobbies - Gaming, Coding, Hacking, Guitar.
+ * @param {string} interests - DiscordJS, Open Source, Javascript, Java, Catgirls :).
+ * @param {Date} birthday - 28th of June.
  */
 ```
   </div>
@@ -44,8 +44,8 @@
 <details open>
   <summary>Discord Status</summary>
   <div>
-    <a href="https://discord.com/users/838764339942785051" target="_blank">
-      <img src="https://oyepriyansh.pages.dev/9d5grh" width="355px">
+    <a href="https://discord.com/users/779429650832031774" target="_blank">
+      <img src="https://discord.c99.nl/widget/theme-3/779429650832031774.png" width="355px">
     </a> <br>
   </div>
 </details><details open>
@@ -57,20 +57,7 @@
 
 
 <details open>
-  <summary>Recent Activity</summary>
 
-<!--RECENT_ACTIVITY:start-->
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/dotfiles](https://github.com/oyepriyansh/dotfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#266](https://github.com/oyepriyansh/DevProfiles/pull/266) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#265](https://github.com/oyepriyansh/DevProfiles/pull/265) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#264](https://github.com/oyepriyansh/DevProfiles/pull/264) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#263](https://github.com/oyepriyansh/DevProfiles/pull/263) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#261](https://github.com/oyepriyansh/DevProfiles/pull/261) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/cms](https://github.com/oyepriyansh/cms) **|** [code100x/cms](https://github.com/code100x/cms)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#260](https://github.com/oyepriyansh/DevProfiles/pull/260) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#259](https://github.com/oyepriyansh/DevProfiles/pull/259) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-<!--RECENT_ACTIVITY:end-->
 
 </details>
 
