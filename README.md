@@ -17,20 +17,6 @@
   <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
 </div> 
 <br>
-<div align="center">
-  <details>
-    <summary>See more</summary>
-    <br>
-```javascript
-/**
- * Represents me.
- * @constructor
- * @param {string} languages - German, English, Spanish, Javascipt.
- * @param {string} hobbies - Gaming, Coding, Hacking, Guitar.
- * @param {string} interests - DiscordJS, Open Source, Javascript, Java.
- * @param {Date} birthday - 28th of June.
- */
-```
   </div>
 </details>
 
