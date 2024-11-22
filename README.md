@@ -21,19 +21,9 @@
 <br>
   </div>
 </details>
-
-
-<details open>
   <summary>Discord Status</summary>
   <div>
     <a href="https://discord.com/users/779429650832031774" target="_blank">
       <img src="https://discord.c99.nl/widget/theme-3/779429650832031774.png" width="355px">
     </a> <br>
   </div>
-</details><details open>
-  <summary>GitHub Stats</summary>
-
-  <a href="#"><img src="github_stats.svg" width="355px"></a><br>
-
-</details>
-</div>
