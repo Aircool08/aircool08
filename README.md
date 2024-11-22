@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi <img src="images/wave.gif" width="30px" height="30px">, I'm Aircool 08</h1>
-  <b>I'm a Developer/Game Designer/Gangsta Hacker from Germany</b>
+  <b>I'm a Developer/Game Designer/Gangsta Hecker from Germany</b>
 </div>
 
 <div align="center">
