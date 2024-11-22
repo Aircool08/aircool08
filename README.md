@@ -20,19 +20,14 @@
 <div align="center">
   <details>
     <summary>See more</summary>
-    <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
-    
-    <details open>
-      <summary>About me</summary>
-      <div align="left">
-
+    <br>
 ```javascript
 /**
  * Represents me.
  * @constructor
  * @param {string} languages - German, English, Spanish, Javascipt.
  * @param {string} hobbies - Gaming, Coding, Hacking, Guitar.
- * @param {string} interests - DiscordJS, Open Source, Javascript, Java, Catgirls :).
+ * @param {string} interests - DiscordJS, Open Source, Javascript, Java.
  * @param {Date} birthday - 28th of June.
  */
 ```
@@ -53,13 +48,4 @@
   <a href="#"><img src="github_stats.svg" width="355px"></a><br>
 
 </details>
-
-
-<details open>
-
-
-</details>
-
-</details>
-  <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
 </div>
