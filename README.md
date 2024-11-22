@@ -11,10 +11,12 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
-  <a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
-  <a href="https://instagram.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram"/></a>
-  <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
+  <a href = "https://youtube.com/aircool08"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+  <a href = "https://twitch.tv/aircool08"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
+  <a href = "https://www.reddit.com/aircool08/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>  
+  <a href = "https://solo.to/aircool08"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a> 
+  <a href = "https://dsc.gg/aircool"><img src="https://img.icons8.com/color/48/000000/discord.png"/></a>
+  <a href = "https://aircool08.github.io"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>     
 </div> 
 <br>
   </div>
