@@ -21,9 +21,11 @@
 <br>
   </div>
 </details>
+<div align="center">
   <summary>Discord Status</summary>
   <div>
     <a href="https://discord.com/users/779429650832031774" target="_blank">
       <img src="https://discord.c99.nl/widget/theme-3/779429650832031774.png" width="355px">
     </a> <br>
   </div>
+</div>
