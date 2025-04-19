@@ -7,7 +7,6 @@
    
   ✨ Learn more about me on [aircool08.github.io](https://aircool08.github.io). <br>
   💻 Find more of my projects: [github.com/aircool08/repositories](https://github.com/aircool08?tab=repositories). <br>
-  💌 You can contact me over Discord: [dsc.gg/aircool](https://dsc.gg/aircool)
 </div>
 
 <div align="center">
